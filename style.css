@@ -1,0 +1,31 @@
+body {
+    font-family: Arial, sans-serif;
+  }
+  
+  .container {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: black;
+    color: white;
+  }
+  
+  h1 {
+    text-align: center;
+
+  }
+  
+  textarea, select {
+    width: 100%;
+    margin-bottom: 10px;
+    padding: 5px;
+  }
+  
+  #translatedText {
+    border: 1px solid #ccc;
+    padding: 10px;
+    min-height: 100px;
+  }
+  body{
+    background-image: url('img.jpg');
+  }
